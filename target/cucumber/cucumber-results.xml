@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="26.488582">
+<testcase classname="I need to check all Headers" name="Timeline functionality verification" time="26.488582">
+<system-out><![CDATA[Given User can log in to facebook using userid as "asmenterprise.llc@gmail.com" and password as "ctg310306".passed
+And User profile has been loaded successfully...............................passed
+When Navigate to "Timeline".................................................passed
+And Verify header "Life Event" is present...................................passed
+Then Verify "Work & Education" funtionality should work.....................passed
+]]></system-out>
+</testcase>
+</testsuite>

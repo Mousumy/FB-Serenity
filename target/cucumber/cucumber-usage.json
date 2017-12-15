@@ -1,0 +1,92 @@
+[
+  {
+    "source": "^User can log in to facebook using userid as \"([^\"]*)\" and password as \"([^\"]*)\"$",
+    "steps": [
+      {
+        "name": "User can log in to facebook using userid as \"asmenterprise.llc@gmail.com\" and password as \"ctg310306\"",
+        "aggregatedDurations": {
+          "average": 10.755572101,
+          "median": 10.755572101
+        },
+        "durations": [
+          {
+            "duration": 10.755572101,
+            "location": "src/test/resources/features/consult_dictionary/ProfilePageVerification.feature:5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Verify header \"([^\"]*)\" is present$",
+    "steps": [
+      {
+        "name": "Verify header \"Life Event\" is present",
+        "aggregatedDurations": {
+          "average": 0.565271777,
+          "median": 0.565271777
+        },
+        "durations": [
+          {
+            "duration": 0.565271777,
+            "location": "src/test/resources/features/consult_dictionary/ProfilePageVerification.feature:16"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Navigate to \"([^\"]*)\"$",
+    "steps": [
+      {
+        "name": "Navigate to \"Timeline\"",
+        "aggregatedDurations": {
+          "average": 3.539349609,
+          "median": 3.539349609
+        },
+        "durations": [
+          {
+            "duration": 3.539349609,
+            "location": "src/test/resources/features/consult_dictionary/ProfilePageVerification.feature:15"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Verify \"([^\"]*)\" funtionality should work$",
+    "steps": [
+      {
+        "name": "Verify \"Work \u0026 Education\" funtionality should work",
+        "aggregatedDurations": {
+          "average": 11.179029964,
+          "median": 11.179029964
+        },
+        "durations": [
+          {
+            "duration": 11.179029964,
+            "location": "src/test/resources/features/consult_dictionary/ProfilePageVerification.feature:17"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^User profile has been loaded successfully$",
+    "steps": [
+      {
+        "name": "User profile has been loaded successfully",
+        "aggregatedDurations": {
+          "average": 0.179844642,
+          "median": 0.179844642
+        },
+        "durations": [
+          {
+            "duration": 0.179844642,
+            "location": "src/test/resources/features/consult_dictionary/ProfilePageVerification.feature:6"
+          }
+        ]
+      }
+    ]
+  }
+]
