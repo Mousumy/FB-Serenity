@@ -17,6 +17,7 @@ public class LandingPage extends PageObject{
 public void clickOnprofile(){
 	 btn_profile.waitUntilVisible();
 	 btn_profile.click();
+	 Log.info("I just clicked on profile");
  	}
 
 public void landingpageIsLoaded() {
