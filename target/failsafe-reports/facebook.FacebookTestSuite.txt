@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: facebook.FacebookTestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.765 sec <<< FAILURE! - in facebook.FacebookTestSuite
+initializationError(facebook.FacebookTestSuite)  Time elapsed: 0.018 sec  <<< ERROR!
+java.lang.NullPointerException
+
